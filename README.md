@@ -1,2 +1,0 @@
-# ServiceNow
-Deepskilling in serviceNow
